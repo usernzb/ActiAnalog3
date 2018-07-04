@@ -1,0 +1,8 @@
+<drawables><bitmap id="LauncherIcon" filename="launcher_icon.png"></bitmap><bitmap
+    	id="heart" filename="heart16.png">
+</bitmap>
+	<bitmap id="dnd" filename="dnd.png"></bitmap>
+	<bitmap id="bluetooth" filename="bluetooth.png"></bitmap>
+	<bitmap id="alarm" filename="alarm_clock.png"></bitmap>
+	
+</drawables>

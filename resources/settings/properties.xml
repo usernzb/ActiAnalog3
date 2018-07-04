@@ -1,0 +1,25 @@
+<properties>
+  <property id="Font" type="number">0</property>
+  <property id="bkgdColor" type="number">0x000000</property>
+
+
+  <property id="showHands" type="boolean">true</property><property id="showSeconds" type="boolean">true
+  
+  
+  
+  
+    
+  
+  
+      
+    
+  
+  
+    
+  
+
+</property><property id="HourHandColor" type="number">0xBBBDBF</property>
+  
+  <property id="MinuteHandColor" type="number">0x007CC3</property>
+  <property id="SecondsHandColor" type="number">0xFF0000</property>
+  <property id="TimeColor" type="number">0xFFFFFF</property><property id="DateColor" type="number">0xFFFFFF</property><property id="DateFormat" type="number">11</property><property id="ActColor" type="number">0xFFFFFF</property><property id="FiveNumeral" type="number">0xFFFFFF</property><property id="Numeral" type="number">0x494848</property><property id="TopLeftData" type="number">0</property><property id="TopData" type="number">2</property><property id="ShowBatteryStateAt" type="number">25</property><property id="TimeStyleRight" type="number">1</property><property id="BackgroundColorRight" type="number">0x000000</property><property id="BottomScreen" type="number">0</property></properties>

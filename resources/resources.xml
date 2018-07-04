@@ -1,0 +1,5 @@
+<resources><bitmap id="l_heartrate" filename="drawables/heart16.png" /><bitmap id="bluetooth" filename="drawables/bluetooth.png">
+</bitmap>
+	<bitmap id="message" filename="drawables/message16.png"></bitmap>
+	<bitmap id="alarm" filename="drawables/alarm_clock.png"></bitmap>
+	<bitmap id="dnd" filename="drawables/dnd.png"></bitmap></resources>

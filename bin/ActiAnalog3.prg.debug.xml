@@ -1,0 +1,723 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3App.mc" lineNum="5" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3App.mc" lineNum="6" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3App.mc" lineNum="10" pc="268435479" symbol="onStart"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3App.mc" lineNum="14" pc="268435484" symbol="onStop"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3App.mc" lineNum="18" pc="268435489" symbol="getInitialView"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3App.mc" lineNum="19" pc="268435493" symbol="getInitialView"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="62" pc="268435531" symbol="initialize"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="63" pc="268435535" symbol="initialize"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="64" pc="268435553" symbol="initialize"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="67" pc="268435576" symbol="onLayout"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="70" pc="268435580" symbol="onLayout"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="71" pc="268435623" symbol="onLayout"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="74" pc="268435667" symbol="drawHand"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="76" pc="268435671" symbol="drawHand"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="77" pc="268435671" symbol="drawHand"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="78" pc="268435671" symbol="drawHand"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="79" pc="268435679" symbol="drawHand"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="80" pc="268435698" symbol="drawHand"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="81" pc="268435717" symbol="drawHand"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="82" pc="268435736" symbol="drawHand"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="84" pc="268435755" symbol="drawHand"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="86" pc="268435766" symbol="drawHand"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="90" pc="268435779" symbol="drawHand"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="93" pc="268435786" symbol="drawHand"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="96" pc="268435972" symbol="drawHand"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="98" pc="268435990" symbol="drawHand"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="99" pc="268436021" symbol="drawHand"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="100" pc="268436052" symbol="drawHand"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="104" pc="268436102" symbol="drawHand"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="105" pc="268436116" symbol="drawHand"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="108" pc="268436131" symbol="drawHands"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="109" pc="268436135" symbol="drawHands"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="110" pc="268436135" symbol="drawHands"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="111" pc="268436135" symbol="drawHands"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="112" pc="268436135" symbol="drawHands"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="113" pc="268436135" symbol="drawHands"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="114" pc="268436219" symbol="drawHands"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="115" pc="268436226" symbol="drawHands"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="116" pc="268436243" symbol="drawHands"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="118" pc="268436253" symbol="drawHands"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="121" pc="268436267" symbol="drawHands"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="122" pc="268436298" symbol="drawHands"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="123" pc="268436308" symbol="drawHands"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="124" pc="268436331" symbol="drawHands"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="125" pc="268436363" symbol="drawHands"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="128" pc="268436394" symbol="drawHands"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="129" pc="268436429" symbol="drawHands"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="130" pc="268436461" symbol="drawHands"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="133" pc="268436492" symbol="drawHands"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="135" pc="268436506" symbol="drawHands"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="136" pc="268436539" symbol="drawHands"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="137" pc="268436571" symbol="drawHands"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="138" pc="268436606" symbol="drawHands"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="139" pc="268436623" symbol="drawHands"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="140" pc="268436654" symbol="drawHands"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="142" pc="268436688" symbol="drawHands"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="144" pc="268436699" symbol="drawHands"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="145" pc="268436732" symbol="drawHands"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="146" pc="268436764" symbol="drawHands"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="147" pc="268436799" symbol="drawHands"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="148" pc="268436816" symbol="drawHands"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="149" pc="268436847" symbol="drawHands"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="153" pc="268436881" symbol="drawHands"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="154" pc="268436913" symbol="drawHands"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="155" pc="268436946" symbol="drawHands"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="156" pc="268436982" symbol="drawHands"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="157" pc="268437015" symbol="drawHands"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="158" pc="268437047" symbol="drawHands"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="162" pc="268437083" symbol="drawHands"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="164" pc="268437115" symbol="drawHands"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="165" pc="268437140" symbol="drawHands"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="166" pc="268437151" symbol="drawHands"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="169" pc="268437167" symbol="drawHands"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="170" pc="268437199" symbol="drawHands"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="171" pc="268437206" symbol="drawHands"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="175" pc="268437227" symbol="drawHands"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="176" pc="268437292" symbol="drawHands"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="177" pc="268437309" symbol="drawHands"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="178" pc="268437363" symbol="drawHands"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="180" pc="268437380" symbol="drawHands"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="185" pc="268437458" symbol="drawStats"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="186" pc="268437462" symbol="drawStats"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="187" pc="268437494" symbol="drawStats"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="188" pc="268437512" symbol="drawStats"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="189" pc="268437530" symbol="drawStats"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="190" pc="268437544" symbol="drawStats"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="191" pc="268437568" symbol="drawStats"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="192" pc="268437586" symbol="drawStats"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="193" pc="268437604" symbol="drawStats"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="194" pc="268437622" symbol="drawStats"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="198" pc="268437641" symbol="drawActivityInfo"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="199" pc="268437645" symbol="drawActivityInfo"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="200" pc="268437662" symbol="drawActivityInfo"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="201" pc="268437681" symbol="drawActivityInfo"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="202" pc="268437706" symbol="drawActivityInfo"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="203" pc="268437731" symbol="drawActivityInfo"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="211" pc="268437756" symbol="drawActivityInfo"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="212" pc="268437779" symbol="drawActivityInfo"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="213" pc="268437859" symbol="drawActivityInfo"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="215" pc="268437931" symbol="drawActivityInfo"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="216" pc="268438011" symbol="drawActivityInfo"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="218" pc="268438080" symbol="drawActivityInfo"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="219" pc="268438091" symbol="drawActivityInfo"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="222" pc="268438153" symbol="drawActivityInfo"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="224" pc="268438225" symbol="drawActivityInfo"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="226" pc="268438311" symbol="drawActivityInfo"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="230" pc="268438413" symbol="drawAlt"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="232" pc="268438417" symbol="drawAlt"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="233" pc="268438434" symbol="drawAlt"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="234" pc="268438451" symbol="drawAlt"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="235" pc="268438467" symbol="drawAlt"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="237" pc="268438467" symbol="drawAlt"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="240" pc="268438499" symbol="drawAlt"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="241" pc="268438516" symbol="drawAlt"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="242" pc="268438599" symbol="drawAlt"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="243" pc="268438616" symbol="drawAlt"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="244" pc="268438705" symbol="drawAlt"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="245" pc="268438722" symbol="drawAlt"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="246" pc="268438797" symbol="drawAlt"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="251" pc="268438818" symbol="drawHeartRate"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="252" pc="268438822" symbol="drawHeartRate"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="253" pc="268438822" symbol="drawHeartRate"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="254" pc="268438846" symbol="drawHeartRate"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="257" pc="268438846" symbol="drawHeartRate"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="258" pc="268438868" symbol="drawHeartRate"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="261" pc="268438887" symbol="drawHeartRate"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="262" pc="268438929" symbol="drawHeartRate"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="264" pc="268438942" symbol="drawHeartRate"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="266" pc="268438952" symbol="drawHeartRate"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="267" pc="268438963" symbol="drawHeartRate"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="270" pc="268438973" symbol="drawHeartRate"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="271" pc="268438997" symbol="drawHeartRate"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="275" pc="268439064" symbol="drawBatteryStat"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="277" pc="268439068" symbol="drawBatteryStat"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="278" pc="268439139" symbol="drawBatteryStat"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="280" pc="268439187" symbol="drawBatteryStat"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="281" pc="268439223" symbol="drawBatteryStat"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="282" pc="268439256" symbol="drawBatteryStat"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="285" pc="268439294" symbol="drawBatteryStat"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="288" pc="268439317" symbol="drawBatteryStat"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="291" pc="268439327" symbol="drawBatteryStat"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="292" pc="268439338" symbol="drawBatteryStat"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="293" pc="268439374" symbol="drawBatteryStat"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="294" pc="268439403" symbol="drawBatteryStat"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="296" pc="268439435" symbol="drawBatteryStat"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="297" pc="268439446" symbol="drawBatteryStat"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="298" pc="268439482" symbol="drawBatteryStat"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="299" pc="268439511" symbol="drawBatteryStat"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="301" pc="268439543" symbol="drawBatteryStat"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="302" pc="268439554" symbol="drawBatteryStat"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="303" pc="268439590" symbol="drawBatteryStat"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="304" pc="268439619" symbol="drawBatteryStat"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="306" pc="268439651" symbol="drawBatteryStat"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="307" pc="268439662" symbol="drawBatteryStat"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="308" pc="268439698" symbol="drawBatteryStat"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="309" pc="268439727" symbol="drawBatteryStat"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="311" pc="268439759" symbol="drawBatteryStat"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="312" pc="268439770" symbol="drawBatteryStat"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="313" pc="268439806" symbol="drawBatteryStat"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="314" pc="268439835" symbol="drawBatteryStat"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="317" pc="268439867" symbol="drawBatteryStat"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="318" pc="268439903" symbol="drawBatteryStat"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="319" pc="268439932" symbol="drawBatteryStat"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="325" pc="268439962" symbol="drawDoNotDisturb"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="326" pc="268439966" symbol="drawDoNotDisturb"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="327" pc="268439966" symbol="drawDoNotDisturb"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="329" pc="268439982" symbol="drawDoNotDisturb"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="330" pc="268439990" symbol="drawDoNotDisturb"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="331" pc="268440027" symbol="drawDoNotDisturb"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="338" pc="268440064" symbol="drawAlarms"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="339" pc="268440068" symbol="drawAlarms"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="340" pc="268440068" symbol="drawAlarms"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="342" pc="268440084" symbol="drawAlarms"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="343" pc="268440095" symbol="drawAlarms"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="344" pc="268440132" symbol="drawAlarms"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="351" pc="268440169" symbol="drawNotifications"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="352" pc="268440173" symbol="drawNotifications"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="353" pc="268440173" symbol="drawNotifications"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="354" pc="268440173" symbol="drawNotifications"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="356" pc="268440189" symbol="drawNotifications"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="358" pc="268440225" symbol="drawNotifications"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="359" pc="268440236" symbol="drawNotifications"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="360" pc="268440293" symbol="drawNotifications"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="361" pc="268440330" symbol="drawNotifications"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="368" pc="268440367" symbol="drawConnectivity"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="369" pc="268440371" symbol="drawConnectivity"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="371" pc="268440371" symbol="drawConnectivity"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="373" pc="268440407" symbol="drawConnectivity"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="374" pc="268440427" symbol="drawConnectivity"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="375" pc="268440464" symbol="drawConnectivity"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="381" pc="268440501" symbol="onUpdate"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="382" pc="268440505" symbol="onUpdate"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="383" pc="268440522" symbol="onUpdate"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="384" pc="268440539" symbol="onUpdate"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="385" pc="268440570" symbol="onUpdate"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="387" pc="268440573" symbol="onUpdate"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="388" pc="268440623" symbol="onUpdate"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="389" pc="268440645" symbol="onUpdate"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="390" pc="268440667" symbol="onUpdate"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="391" pc="268440689" symbol="onUpdate"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="393" pc="268440711" symbol="onUpdate"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="395" pc="268440715" symbol="onUpdate"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="396" pc="268440734" symbol="onUpdate"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="397" pc="268440753" symbol="onUpdate"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="398" pc="268440775" symbol="onUpdate"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="401" pc="268440797" symbol="onUpdate"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="402" pc="268440831" symbol="onUpdate"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="407" pc="268440876" symbol="onUpdate"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="409" pc="268440888" symbol="onUpdate"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="410" pc="268440918" symbol="onUpdate"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="412" pc="268440950" symbol="onUpdate"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="413" pc="268440964" symbol="onUpdate"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="416" pc="268440979" symbol="loadAppSettings"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="419" pc="268440983" symbol="loadAppSettings"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="420" pc="268441020" symbol="loadAppSettings"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="421" pc="268441057" symbol="loadAppSettings"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="422" pc="268441094" symbol="loadAppSettings"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="423" pc="268441131" symbol="loadAppSettings"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="424" pc="268441168" symbol="loadAppSettings"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="425" pc="268441205" symbol="loadAppSettings"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="426" pc="268441242" symbol="loadAppSettings"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="427" pc="268441279" symbol="loadAppSettings"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="428" pc="268441316" symbol="loadAppSettings"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="429" pc="268441353" symbol="loadAppSettings"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="430" pc="268441390" symbol="loadAppSettings"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="431" pc="268441427" symbol="loadAppSettings"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="432" pc="268441464" symbol="loadAppSettings"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="436" pc="268441502" symbol="drawNumerals"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="437" pc="268441506" symbol="drawNumerals"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="439" pc="268441540" symbol="drawNumerals"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="440" pc="268441572" symbol="drawNumerals"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="442" pc="268441599" symbol="drawNumerals"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="443" pc="268441615" symbol="drawNumerals"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="445" pc="268441631" symbol="drawNumerals"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="446" pc="268441649" symbol="drawNumerals"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="447" pc="268441668" symbol="drawNumerals"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="448" pc="268441699" symbol="drawNumerals"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="450" pc="268441730" symbol="drawNumerals"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="453" pc="268441744" symbol="drawNumerals"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="455" pc="268441909" symbol="drawNumerals"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="456" pc="268441943" symbol="drawNumerals"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="458" pc="268442022" symbol="drawNumerals"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="459" pc="268442056" symbol="drawNumerals"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="465" pc="268442149" symbol="drawDate"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="466" pc="268442153" symbol="drawDate"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="467" pc="268442187" symbol="drawDate"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="521" pc="268442414" symbol="drawDate"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="522" pc="268442427" symbol="drawDate"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="469" pc="268442443" symbol="drawDate"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="470" pc="268442468" symbol="drawDate"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="471" pc="268442507" symbol="drawDate"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="473" pc="268442510" symbol="drawDate"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="474" pc="268442566" symbol="drawDate"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="475" pc="268442591" symbol="drawDate"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="476" pc="268442668" symbol="drawDate"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="478" pc="268442671" symbol="drawDate"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="479" pc="268442727" symbol="drawDate"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="480" pc="268442752" symbol="drawDate"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="481" pc="268442829" symbol="drawDate"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="483" pc="268442832" symbol="drawDate"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="484" pc="268442857" symbol="drawDate"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="485" pc="268442896" symbol="drawDate"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="487" pc="268442899" symbol="drawDate"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="488" pc="268442941" symbol="drawDate"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="489" pc="268442966" symbol="drawDate"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="491" pc="268442969" symbol="drawDate"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="492" pc="268443025" symbol="drawDate"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="493" pc="268443064" symbol="drawDate"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="494" pc="268443103" symbol="drawDate"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="496" pc="268443106" symbol="drawDate"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="497" pc="268443162" symbol="drawDate"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="498" pc="268443201" symbol="drawDate"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="499" pc="268443240" symbol="drawDate"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="501" pc="268443243" symbol="drawDate"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="502" pc="268443299" symbol="drawDate"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="503" pc="268443376" symbol="drawDate"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="504" pc="268443401" symbol="drawDate"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="506" pc="268443404" symbol="drawDate"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="507" pc="268443460" symbol="drawDate"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="508" pc="268443485" symbol="drawDate"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="509" pc="268443562" symbol="drawDate"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="511" pc="268443565" symbol="drawDate"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="512" pc="268443621" symbol="drawDate"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="513" pc="268443698" symbol="drawDate"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="514" pc="268443723" symbol="drawDate"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="516" pc="268443726" symbol="drawDate"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="517" pc="268443782" symbol="drawDate"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="518" pc="268443807" symbol="drawDate"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="519" pc="268443870" symbol="drawDate"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="524" pc="268443876" symbol="drawDate"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="525" pc="268443893" symbol="drawDate"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="529" pc="268443965" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="530" pc="268443969" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="531" pc="268443979" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="534" pc="268443996" symbol="onExitSleep"/>
+<entry filename="C:\\Users\\HPOwner\\Downloads\\Garmin\\eclipse-workspace\\ActiAnalog3\\.\\source\\ActiAnalog3View.mc" lineNum="535" pc="268444000" symbol="onExitSleep"/>
+<entry filename="Rez" lineNum="132" pc="268444011" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="136" pc="268444023" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="137" pc="268444186" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="138" pc="268444211" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="139" pc="268444263" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="142" pc="268444309" symbol="WatchFace"/>
+</pcToLineNum>
+<symbolTable>
+<entry field="true" id="95" symbol="NormalZeroLeadingH"/>
+<entry field="true" id="8388923" method="true" symbol="today"/>
+<entry field="true" id="8389671" symbol="screenWidth"/>
+<entry field="true" id="91" symbol="DDMMYYYY"/>
+<entry field="true" id="36" symbol="DateColor"/>
+<entry field="true" id="142" symbol="dayOfWeek"/>
+<entry field="true" id="102" symbol="Notifications"/>
+<entry field="true" id="89" symbol="ColorDarkPurple"/>
+<entry field="true" id="33" symbol="SmallerZeroLeadingH"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry field="true" id="53" symbol="Font"/>
+<entry field="true" id="30" symbol="WDD"/>
+<entry id="8389349" symbol="justification"/>
+<entry field="true" id="68" symbol="Half"/>
+<entry field="true" id="74" symbol="NoDate"/>
+<entry field="true" id="75" symbol="NoData"/>
+<entry field="true" id="146" symbol="DateTextLeft"/>
+<entry field="true" id="50" symbol="StepGoalHistoryGraphFive"/>
+<entry field="true" id="121" symbol="TinyMin"/>
+<entry field="true" id="15" symbol="bluetooth"/>
+<entry id="157" method="true" symbol="drawNotifications"/>
+<entry field="true" id="118" symbol="StepGoal"/>
+<entry field="true" id="143" symbol="timeFormat"/>
+<entry field="true" id="48" symbol="ColorBlue"/>
+<entry field="true" id="63" symbol="bkgdColor"/>
+<entry id="8388631" module="true" symbol="Activity"/>
+<entry field="true" id="84" symbol="GarminLightBlue"/>
+<entry field="true" id="99" symbol="TopLeftData"/>
+<entry field="true" id="116" symbol="Zero"/>
+<entry field="true" id="138" symbol="twoPi"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="8388645" module="true" symbol="Time"/>
+<entry id="161" method="true" symbol="drawDate"/>
+<entry field="true" id="52" symbol="NormalMin"/>
+<entry field="true" id="140" symbol="ActFont"/>
+<entry id="149" method="true" symbol="drawHands"/>
+<entry field="true" id="94" symbol="ColorOrange"/>
+<entry field="true" id="123" symbol="BSWDD"/>
+<entry field="true" id="17" symbol="l_heartrate"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry field="true" id="113" symbol="ColorGreen"/>
+<entry field="true" id="70" symbol="MinuteHandColor"/>
+<entry field="true" id="130" symbol="activities"/>
+<entry field="true" id="58" symbol="YYYYMMDD"/>
+<entry field="true" id="82" symbol="MDD"/>
+<entry field="true" id="81" symbol="MMDDYYYY"/>
+<entry field="true" id="108" symbol="ColorYellow"/>
+<entry field="true" id="93" symbol="SmallerMin"/>
+<entry field="true" id="87" symbol="ColorWhite"/>
+<entry field="true" id="20" symbol="id_activities"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389377" method="true" symbol="onExitSleep"/>
+<entry field="true" id="25" symbol="MMDD"/>
+<entry field="true" id="69" symbol="ShowHands"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry field="true" id="136" symbol="halfWidth"/>
+<entry field="true" id="137" symbol="halfHeight"/>
+<entry field="true" id="46" symbol="DDMM"/>
+<entry field="true" id="57" symbol="StepGoalHistoryGraphSeven"/>
+<entry field="true" id="98" symbol="SecondsHandColor"/>
+<entry field="true" id="64" symbol="ColorBlack"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry field="true" id="39" symbol="ActiveMinutesV"/>
+<entry field="true" id="43" symbol="ActiveMinutesT"/>
+<entry field="true" id="54" symbol="ColorDarkGreen"/>
+<entry field="true" id="79" symbol="DM"/>
+<entry field="true" id="100" symbol="ConnectionState"/>
+<entry field="true" id="111" symbol="ColorPink"/>
+<entry field="true" id="73" symbol="ColorSalmon"/>
+<entry id="156" method="true" symbol="drawAlarms"/>
+<entry field="true" id="47" symbol="StepGoalHistoryBarSeven"/>
+<entry field="true" id="26" symbol="ColorRed"/>
+<entry field="true" id="24" symbol="ColorHighBlue"/>
+<entry field="true" id="31" symbol="WMMDD"/>
+<entry field="true" id="42" symbol="ColorSoftRed"/>
+<entry field="true" id="85" symbol="Third"/>
+<entry field="true" id="78" symbol="Label"/>
+<entry field="true" id="107" symbol="StepGoalBar"/>
+<entry field="true" id="34" symbol="WDDMM"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="109" symbol="AppName"/>
+<entry field="true" id="133" symbol="garmin_light_grey"/>
+<entry field="true" id="56" symbol="TimeStyleRightTitle"/>
+<entry field="true" id="104" symbol="ColorFuchsia"/>
+<entry field="true" id="35" symbol="AlarmCount"/>
+<entry id="9" object="true" symbol="ActiAnalog3App"/>
+<entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+<entry id="148" method="true" symbol="drawHand"/>
+<entry field="true" id="90" symbol="BottomScreen"/>
+<entry id="152" method="true" symbol="drawAlt"/>
+<entry field="true" id="62" symbol="TimeColor"/>
+<entry field="true" id="59" symbol="MovePriority"/>
+<entry field="true" id="125" symbol="BatteryState"/>
+<entry id="159" method="true" symbol="loadAppSettings"/>
+<entry field="true" id="23" symbol="Numeral"/>
+<entry field="true" id="8389672" symbol="screenHeight"/>
+<entry field="true" id="13" symbol="heart"/>
+<entry field="true" id="44" symbol="GarminVivoactive"/>
+<entry id="8388641" module="true" symbol="Math"/>
+<entry field="true" id="29" symbol="BSC"/>
+<entry field="true" id="19" symbol="LauncherIcon"/>
+<entry field="true" id="122" symbol="Calories"/>
+<entry field="true" id="37" symbol="AWDD"/>
+<entry field="true" id="135" symbol="deviceSettings"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry field="true" id="8389064" symbol="locX"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry field="true" id="129" symbol="clockFace"/>
+<entry id="158" method="true" symbol="drawConnectivity"/>
+<entry field="true" id="14" symbol="dnd"/>
+<entry field="true" id="92" symbol="StepGoalHistoryBarFive"/>
+<entry field="true" id="71" symbol="GarminDarkGray"/>
+<entry field="true" id="120" symbol="FiveNumeral"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry field="true" id="8388940" symbol="year"/>
+<entry field="true" id="117" symbol="ColorDarkGray"/>
+<entry field="true" id="83" symbol="ColorSunYellow"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="114" symbol="DayOfWeek"/>
+<entry field="true" id="49" symbol="BackgroundColorRightTitle"/>
+<entry field="true" id="8389670" symbol="screenShape"/>
+<entry field="true" id="40" symbol="Always"/>
+<entry field="true" id="76" symbol="ColorLightPurple"/>
+<entry field="true" id="32" symbol="ActColor"/>
+<entry id="10" object="true" symbol="ActiAnalog3View"/>
+<entry field="true" id="147" symbol="DateTextRight"/>
+<entry field="true" id="16" symbol="alarm"/>
+<entry id="151" method="true" symbol="drawActivityInfo"/>
+<entry id="8389376" method="true" symbol="onEnterSleep"/>
+<entry field="true" id="8389348" symbol="font"/>
+<entry field="true" id="60" symbol="ColorLightGray"/>
+<entry field="true" id="27" symbol="ThickerZeroLeadingH"/>
+<entry id="8389347" symbol="color"/>
+<entry field="true" id="105" symbol="TinyMinSec"/>
+<entry field="true" id="128" symbol="isAwake"/>
+<entry field="true" id="112" symbol="WMonthDD"/>
+<entry field="true" id="132" symbol="garmin_blue"/>
+<entry field="true" id="22" symbol="TimeFont"/>
+<entry field="true" id="8388939" symbol="day"/>
+<entry field="true" id="141" symbol="showHands"/>
+<entry id="160" method="true" symbol="drawNumerals"/>
+<entry field="true" id="88" symbol="ThickerH"/>
+<entry field="true" id="139" symbol="DateFont"/>
+<entry field="true" id="72" symbol="DateFormat"/>
+<entry field="true" id="65" symbol="GarminDarkBlue"/>
+<entry field="true" id="8388938" symbol="month"/>
+<entry id="12" module="true" symbol="Layouts"/>
+<entry field="true" id="80" symbol="MovementStepGoalBar"/>
+<entry field="true" id="18" symbol="message"/>
+<entry field="true" id="119" symbol="ColorDarkBlue"/>
+<entry field="true" id="61" symbol="ColorHighYellow"/>
+<entry id="155" method="true" symbol="drawDoNotDisturb"/>
+<entry id="153" method="true" symbol="drawHeartRate"/>
+<entry id="150" method="true" symbol="drawStats"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry field="true" id="21" symbol="id_flaticon"/>
+<entry field="true" id="127" symbol="Tenth"/>
+<entry field="true" id="96" symbol="HourHandColor"/>
+<entry field="true" id="124" symbol="Five"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry field="true" id="110" symbol="ShowBatteryStateAt"/>
+<entry field="true" id="126" symbol="ColorLimeGreen"/>
+<entry field="true" id="144" symbol="hoursFormat"/>
+<entry field="true" id="45" symbol="TopData"/>
+<entry id="11" module="true" symbol="Menus"/>
+<entry field="true" id="51" symbol="SmallerH"/>
+<entry field="true" id="115" symbol="FloorsClimbed"/>
+<entry field="true" id="103" symbol="Steps"/>
+<entry field="true" id="77" symbol="Quarter"/>
+<entry field="true" id="55" symbol="showSeconds"/>
+<entry field="true" id="106" symbol="ColorDarkRed"/>
+<entry id="154" method="true" symbol="drawBatteryStat"/>
+<entry field="true" id="28" symbol="ColorCyanBlue"/>
+<entry field="true" id="86" symbol="GarminLightGray"/>
+<entry field="true" id="66" symbol="MovementBar"/>
+<entry field="true" id="134" symbol="garmin_dark_grey"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry field="true" id="131" symbol="flaticon"/>
+<entry field="true" id="38" symbol="NormalH"/>
+<entry field="true" id="67" symbol="StepGoalMovementPrio"/>
+<entry field="true" id="97" symbol="AltitudeM"/>
+<entry field="true" id="41" symbol="ColorPurple"/>
+<entry field="true" id="101" symbol="AltitudeF"/>
+<entry field="true" id="145" symbol="minutesFormat"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435484" name="state" stackId="1" startPc="268435479"/>
+<entry endPc="268435489" name="state" stackId="1" startPc="268435484"/>
+<entry endPc="268435667" name="dc" stackId="1" startPc="268435576"/>
+<entry endPc="268436089" name="x" stackId="14" startPc="268435990"/>
+<entry endPc="268436089" name="y" stackId="15" startPc="268435990"/>
+<entry endPc="268436102" name="i" stackId="13" startPc="268435990"/>
+<entry endPc="268436130" name="result" stackId="8" startPc="268435671"/>
+<entry endPc="268436130" name="halfEndWidth" stackId="6" startPc="268435671"/>
+<entry endPc="268436130" name="sin" stackId="12" startPc="268435671"/>
+<entry endPc="268436130" name="cos" stackId="11" startPc="268435671"/>
+<entry endPc="268436130" name="centerY" stackId="10" startPc="268435671"/>
+<entry endPc="268436130" name="coords" stackId="7" startPc="268435671"/>
+<entry endPc="268436130" name="centerX" stackId="9" startPc="268435671"/>
+<entry endPc="268436131" name="dc" stackId="1" startPc="268435667"/>
+<entry endPc="268436131" name="width" stackId="4" startPc="268435667"/>
+<entry endPc="268436131" name="length" stackId="3" startPc="268435667"/>
+<entry endPc="268436131" name="endWidth" stackId="5" startPc="268435667"/>
+<entry endPc="268436131" name="angle" stackId="2" startPc="268435667"/>
+<entry endPc="268437457" name="hours" stackId="12" startPc="268436135"/>
+<entry endPc="268437457" name="secondHand" stackId="7" startPc="268436135"/>
+<entry endPc="268437457" name="secondTail" stackId="8" startPc="268436135"/>
+<entry endPc="268437457" name="timeString" stackId="9" startPc="268436135"/>
+<entry endPc="268437457" name="minuteHand" stackId="6" startPc="268436135"/>
+<entry endPc="268437457" name="hourHand" stackId="5" startPc="268436135"/>
+<entry endPc="268437457" name="clockTime" stackId="11" startPc="268436135"/>
+<entry endPc="268437457" name="timeFormat" stackId="10" startPc="268436135"/>
+<entry endPc="268437458" name="dc" stackId="2" startPc="268436131"/>
+<entry endPc="268437458" name="screenWidth" stackId="3" startPc="268436131"/>
+<entry endPc="268437458" name="clockTime" stackId="1" startPc="268436131"/>
+<entry endPc="268437458" name="screenHeight" stackId="4" startPc="268436131"/>
+<entry endPc="268437641" name="dc" stackId="1" startPc="268437458"/>
+<entry endPc="268437641" name="screenWidth" stackId="2" startPc="268437458"/>
+<entry endPc="268437641" name="screenHeight" stackId="3" startPc="268437458"/>
+<entry endPc="268438412" name="distmi" stackId="7" startPc="268437645"/>
+<entry endPc="268438412" name="distKm" stackId="6" startPc="268437645"/>
+<entry endPc="268438412" name="stepPer" stackId="8" startPc="268437645"/>
+<entry endPc="268438412" name="activity" stackId="5" startPc="268437645"/>
+<entry endPc="268438412" name="info" stackId="4" startPc="268437645"/>
+<entry endPc="268438413" name="dc" stackId="1" startPc="268437641"/>
+<entry endPc="268438413" name="screenWidth" stackId="2" startPc="268437641"/>
+<entry endPc="268438413" name="screenHeight" stackId="3" startPc="268437641"/>
+<entry endPc="268438817" name="monitor" stackId="5" startPc="268438417"/>
+<entry endPc="268438817" name="string" stackId="7" startPc="268438417"/>
+<entry endPc="268438817" name="altfeet" stackId="6" startPc="268438417"/>
+<entry endPc="268438817" name="info" stackId="4" startPc="268438417"/>
+<entry endPc="268438818" name="dc" stackId="1" startPc="268438413"/>
+<entry endPc="268438818" name="screenWidth" stackId="2" startPc="268438413"/>
+<entry endPc="268438818" name="screenHeight" stackId="3" startPc="268438413"/>
+<entry endPc="268439063" name="heartimg" stackId="6" startPc="268438822"/>
+<entry endPc="268439063" name="tempObject" stackId="5" startPc="268438822"/>
+<entry endPc="268439063" name="tempDrawable" stackId="4" startPc="268438822"/>
+<entry endPc="268439063" name="heartrate" stackId="9" startPc="268438822"/>
+<entry endPc="268439063" name="bitmap" stackId="8" startPc="268438822"/>
+<entry endPc="268439063" name="heartimage" stackId="7" startPc="268438822"/>
+<entry endPc="268439064" name="dc" stackId="1" startPc="268438818"/>
+<entry endPc="268439064" name="screenWidth" stackId="2" startPc="268438818"/>
+<entry endPc="268439064" name="screenHeight" stackId="3" startPc="268438818"/>
+<entry endPc="268439961" name="batbox" stackId="4" startPc="268439068"/>
+<entry endPc="268439961" name="batboxend" stackId="3" startPc="268439068"/>
+<entry endPc="268439961" name="batString" stackId="2" startPc="268439068"/>
+<entry endPc="268439961" name="batBar" stackId="6" startPc="268439068"/>
+<entry endPc="268439961" name="batStat" stackId="5" startPc="268439068"/>
+<entry endPc="268439962" name="dc" stackId="1" startPc="268439064"/>
+<entry endPc="268440063" name="doNotDisturb" stackId="5" startPc="268439966"/>
+<entry endPc="268440063" name="dndIcon" stackId="4" startPc="268439966"/>
+<entry endPc="268440064" name="dc" stackId="1" startPc="268439962"/>
+<entry endPc="268440064" name="screenWidth" stackId="2" startPc="268439962"/>
+<entry endPc="268440064" name="screenHeight" stackId="3" startPc="268439962"/>
+<entry endPc="268440168" name="alarmcount" stackId="5" startPc="268440068"/>
+<entry endPc="268440168" name="alarmIcon" stackId="4" startPc="268440068"/>
+<entry endPc="268440169" name="dc" stackId="1" startPc="268440064"/>
+<entry endPc="268440169" name="screenWidth" stackId="2" startPc="268440064"/>
+<entry endPc="268440169" name="screenHeight" stackId="3" startPc="268440064"/>
+<entry endPc="268440366" name="mIconYm" stackId="5" startPc="268440173"/>
+<entry endPc="268440366" name="count" stackId="6" startPc="268440173"/>
+<entry endPc="268440366" name="mIconm" stackId="4" startPc="268440173"/>
+<entry endPc="268440367" name="dc" stackId="1" startPc="268440169"/>
+<entry endPc="268440367" name="screenWidth" stackId="2" startPc="268440169"/>
+<entry endPc="268440367" name="screenHeight" stackId="3" startPc="268440169"/>
+<entry endPc="268440500" name="btIcon" stackId="4" startPc="268440371"/>
+<entry endPc="268440501" name="dc" stackId="1" startPc="268440367"/>
+<entry endPc="268440501" name="screenWidth" stackId="2" startPc="268440367"/>
+<entry endPc="268440501" name="screenHeight" stackId="3" startPc="268440367"/>
+<entry endPc="268440978" name="now" stackId="3" startPc="268440505"/>
+<entry endPc="268440978" name="targetDc" stackId="5" startPc="268440505"/>
+<entry endPc="268440978" name="dateLong" stackId="4" startPc="268440505"/>
+<entry endPc="268440978" name="clockTime" stackId="2" startPc="268440505"/>
+<entry endPc="268440979" name="dc" stackId="1" startPc="268440501"/>
+<entry endPc="268442135" name="x" stackId="6" startPc="268441649"/>
+<entry endPc="268442135" name="angle" stackId="5" startPc="268441649"/>
+<entry endPc="268442135" name="y" stackId="7" startPc="268441649"/>
+<entry endPc="268442148" name="i" stackId="4" startPc="268441649"/>
+<entry endPc="268442148" name="hExtent" stackId="3" startPc="268441506"/>
+<entry endPc="268442148" name="wExtent" stackId="2" startPc="268441506"/>
+<entry endPc="268442149" name="dc" stackId="1" startPc="268441502"/>
+<entry endPc="268443965" name="dc" stackId="1" startPc="268442149"/>
+<entry endPc="268444326" name="rez_cmp_local_bitmap_TimeLabel" stackId="2" startPc="268444023"/>
+<entry endPc="268444326" name="rez_cmp_local_bitmap_TimeLabel_fontHeight" stackId="3" startPc="268444023"/>
+<entry endPc="268444327" name="dc" stackId="1" startPc="268444011"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry accessMode="public" name="initialize" parent="ActiAnalog3App">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="ActiAnalog3App">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="ActiAnalog3App">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="ActiAnalog3App">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="ActiAnalog3View">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="ActiAnalog3View">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawHand" parent="ActiAnalog3View">
+<param id="dc"/>
+<param id="angle"/>
+<param id="length"/>
+<param id="width"/>
+<param id="endWidth"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawHands" parent="ActiAnalog3View">
+<param id="clockTime"/>
+<param id="dc"/>
+<param id="screenWidth"/>
+<param id="screenHeight"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawStats" parent="ActiAnalog3View">
+<param id="dc"/>
+<param id="screenWidth"/>
+<param id="screenHeight"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawActivityInfo" parent="ActiAnalog3View">
+<param id="dc"/>
+<param id="screenWidth"/>
+<param id="screenHeight"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawAlt" parent="ActiAnalog3View">
+<param id="dc"/>
+<param id="screenWidth"/>
+<param id="screenHeight"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawHeartRate" parent="ActiAnalog3View">
+<param id="dc"/>
+<param id="screenWidth"/>
+<param id="screenHeight"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawBatteryStat" parent="ActiAnalog3View">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawDoNotDisturb" parent="ActiAnalog3View">
+<param id="dc"/>
+<param id="screenWidth"/>
+<param id="screenHeight"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawAlarms" parent="ActiAnalog3View">
+<param id="dc"/>
+<param id="screenWidth"/>
+<param id="screenHeight"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawNotifications" parent="ActiAnalog3View">
+<param id="dc"/>
+<param id="screenWidth"/>
+<param id="screenHeight"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawConnectivity" parent="ActiAnalog3View">
+<param id="dc"/>
+<param id="screenWidth"/>
+<param id="screenHeight"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="ActiAnalog3View">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="loadAppSettings" parent="ActiAnalog3View">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawNumerals" parent="ActiAnalog3View">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawDate" parent="ActiAnalog3View">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onEnterSleep" parent="ActiAnalog3View">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onExitSleep" parent="ActiAnalog3View">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="WatchFace" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="166" parentId="globals" symbolId="ActiAnalog3App" type="class"/>
+<dataEntry offset="237" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="316" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="403" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="434" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="489" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="520" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="559" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="1438" parentId="globals" symbolId="ActiAnalog3View" type="class"/>
+</dataEntryOffsetMappings>
+</debugInfo>

@@ -1,0 +1,5 @@
+<fonts>
+	<font id="id_activities" filename="activities.fnt" filter="mcsfr"></font>
+	<font id="id_flaticon" filename="flaticon.fnt" filter="1234afns"></font>
+	<font id="TimeFont" filename="calibri54.fnt" filter='1234567890:'></font>
+</fonts>
